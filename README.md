@@ -6,4 +6,3 @@
 
 
 [![Build status](https://ci.appveyor.com/api/projects/status/oxlrb1vpn8af8dy6?svg=true)](https://ci.appveyor.com/project/DedMaier/testing)
-
